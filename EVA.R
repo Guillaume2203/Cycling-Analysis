@@ -1,10 +1,4 @@
-## R script will run on selection.
-##
-## GC.activity(compare=FALSE)
-## GC.metrics(all=FALSE,
-##            compare=FALSE)
-##
-## Get the current ride or metrics
+## Exposure variation analysis for time series.
 ##
 Power <- read.csv("time serie vector")
 Power=as.matrix(Power)
