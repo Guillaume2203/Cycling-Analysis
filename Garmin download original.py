@@ -5,8 +5,8 @@ from datetime import date, datetime
 import datetime
 from garminconnect import Garmin
 
-my_garmin_username = 'bosredon.mathieu@gmail.com' #Replace with your username
-my_garmin_password = 'Freerider19'#Replace with your pw
+my_garmin_username = 'username' #Replace with your username
+my_garmin_password = 'pw'#Replace with your pw
 output_folder = "Directory" #Folder where the file(s) will be saved
 
 #Enter the date you want to pull data for
